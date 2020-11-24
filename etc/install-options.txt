@@ -1,0 +1,13 @@
+Editor Option: VIM
+Custom Editor Path: 
+Path Option: CmdTools
+SSH Option: OpenSSH
+Tortoise Option: false
+CURL Option: WinSSL
+CRLF Option: CRLFAlways
+Bash Terminal Option: MinTTY
+Git Pull Behavior Option: Merge
+Use Credential Manager: Enabled
+Performance Tweaks FSCache: Enabled
+Enable Symlinks: Disabled
+Enable Pseudo Console Support: Disabled
